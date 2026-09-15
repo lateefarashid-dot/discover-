@@ -63,8 +63,7 @@ if selected_word:
        f"</h2>",
        unsafe_allow_html=True
    )
-else:
-st.info("اختاري الحروف بالترتيب الصحيح 👆")
+
 
 # -----------------------------
 # الأزرار
